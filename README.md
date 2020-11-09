@@ -1,2 +1,2 @@
 # chlamydia
-Fining optimal conversion rate of Chlamydia
+Finding optimal conversion rate of Chlamydia
